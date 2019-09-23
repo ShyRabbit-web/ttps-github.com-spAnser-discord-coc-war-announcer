@@ -4,11 +4,11 @@ module.exports = {
   updateInterval: 60 * 2, // 2 Minutes
   commandPrefix: '!',
   coc: {
-    apiKey: '',
+    apiKey: 'https://api.clashofclans.com/v1/clans/2929P89UL',
   },
   discord: {
-    clientId: '',
-    userToken: ''
+    clientId: '625606192047194112',
+    userToken: 'NjI1NjA2MTkyMDQ3MTk0MTEy.XYkDwA.Z4fdIDDa3S__8y_NCkDDXabDcLc'
   },
   starColors: [
     0xff484e, // 0 Stars
