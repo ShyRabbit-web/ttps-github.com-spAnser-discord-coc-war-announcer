@@ -8,7 +8,7 @@ module.exports = {
   },
   discord: {
     clientId: '625606192047194112',
-    userToken: 'NjI1NjA2MTkyMDQ3MTk0MTEy.XYkGMA.PHui_caI0gbvVrO6AIoohFcffGE'
+    userToken: 'NjI1NjA2MTkyMDQ3MTk0MTEy.XYkHLQ.WGRR9cq6OdkCrDCetyKDcXjPlB8'
   },
   starColors: [
     0xff484e, // 0 Stars
