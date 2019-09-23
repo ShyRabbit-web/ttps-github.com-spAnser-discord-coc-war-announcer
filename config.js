@@ -7,7 +7,7 @@ module.exports = {
     apiKey: 'https://api.clashofclans.com/v1/clans/2929P89UL',
   },
   discord: {
-    clientId: '625606192047194112',
+    clientId: '625737934259355648',
     userToken: 'NjI1NjA2MTkyMDQ3MTk0MTEy.XYkHLQ.WGRR9cq6OdkCrDCetyKDcXjPlB8'
   },
   starColors: [
